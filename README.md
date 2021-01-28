@@ -1,4 +1,4 @@
-### Hi, I'm Gurveen 👋
+### Hi, I'm Gurveen :pray:
 ---
 
 #### I'm a Full-Stack Developer based in Indore, India.
