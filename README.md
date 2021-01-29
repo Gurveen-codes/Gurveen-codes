@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Developer based in Indore, India.
 
-- 🏢 I'm currently looking for full-time work
+- 🏢 I'm currently *looking for full-time work*
 
 - ⚙️ I use daily:  `.js`, `.html`, `.css`, `.ejs`, `.png`, `.json`, `.yml`
 
